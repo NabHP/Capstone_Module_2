@@ -6,6 +6,6 @@ This project focuses on analyzing data from TransJakarta, the bus rapid transit 
 Project Structure
 The project is organized into the following sections:
 
-Data Collection
-Data Cleaning
-Exploratory Data Analysis (EDA)
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
